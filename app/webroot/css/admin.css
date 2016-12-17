@@ -1,0 +1,9 @@
+body {background: #E9ECF3;}
+.navbar .label,.navbar .glyphicon { margin-right:5px; }
+.table img {width: 64px; height: 64px;}
+.table .actions {width: 100px; text-align: center;}
+
+/*========== Icon color css =============*/
+.glyphicon-ok, .glyphicon-ok-sign {color: #5cb85c;}
+.glyphicon-remove, .glyphicon-remove-sign {color: #d9534f;}
+/*=======================================*/
